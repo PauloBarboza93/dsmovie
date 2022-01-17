@@ -13,6 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript]
 - [HTML5]
 - [CSS3]
+- [Bootstrap]
 - [Java]
 - [SQL]
-- [Spring]
+- [Spring Boot]
